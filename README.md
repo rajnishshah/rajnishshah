@@ -2,7 +2,7 @@
 ![logo](https://github.com/rajnishshah/rajnishshah/blob/main/Hello1.png)
 <h1 align="center">Hi 👋, I'm Rajnish Shah</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/GEKm.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajnishshah" alt="rajnishshah" /></a> </p>
 
