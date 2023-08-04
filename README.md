@@ -4,6 +4,8 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/GEKm.gif">
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajnishshah" alt="rajnishshah" /></a> </p>
+
 
 - 🔭 I’m currently Studying **MCA(Engineering)**
 
