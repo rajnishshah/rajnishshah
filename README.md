@@ -1,10 +1,19 @@
 
 ![logo](https://github.com/rajnishshah/rajnishshah/blob/main/Hello1.png)
-<h1 align="center">Hi 👋, I'm Rajnish Shah</h1>
+<h1 align="center"><a herf="https://github.com/abhisheknik"> 𝗛𝗶!<img src="https://user-images.githubusercontent.com/79035081/208421932-fddfb58d-03e8-40ee-90f0-e6daa850186f.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />𝐈'𝐦 𝐑𝐚𝐣𝐧𝐢𝐬𝐡 𝐒𝐡𝐚𝐡
+</h1>
+
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajnishshah&label=Profile%20views&color=0e75b6&style=flat" alt="rajnishshah" /> </p>
+
+<img align="right" alt="coding" width="400" height="222" src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
 
 - 🔭 I’m currently Studying **MCA(Engineering)**
+
+- 🍉 I have completed One Month Web Development internship from 𝐓𝐞𝐜𝐡𝐧𝐨𝐇𝐚𝐜𝐤𝐬
 
 - 🌱 I’m currently learning **Java**
 
